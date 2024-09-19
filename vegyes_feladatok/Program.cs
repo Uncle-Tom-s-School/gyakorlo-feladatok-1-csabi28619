@@ -3,6 +3,7 @@
     internal class Program
     {
         static void feladat1() {
+            // Hello World
             Console.Write("Add meg, mennyien értékelték összesen a játékot: ");
             int n = int.Parse(Console.ReadLine());
 
